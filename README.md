@@ -1,2 +1,7 @@
-Link para o video:
-https://drive.google.com/file/d/1H17vAR7v1yjZ4eTCZ7IdiXlnTOsnrqKh/view?t=2
+Segue o a parte 1 do projeto de Banco de Dados de Pokemon, feito por Arthur Torquato:
+Codigo SQL:
+
+
+Descrição do trabalho:
+[Banco de dados Pkmn.pdf](https://github.com/user-attachments/files/17757187/Banco.de.dados.Pkmn.pdf)
+[Tabelas pkmn.pdf](https://github.com/user-attachments/files/17757365/Tabelas.pkmn.pdf)
